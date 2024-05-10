@@ -1,0 +1,37 @@
+[
+    {
+    "stateCode": "KS",
+    "funfacts": 
+     ["Kansas produces 334 million bushels of wheat, which is about 18% of all wheat grown in the U.S., each year.",
+      "Dorothy from 'The Wizard of Oz' is famously associated with Kansas.",
+      "Kansas has more miles of highway per square mile than any other state."]
+    },
+    {
+     "stateCode": "MO",
+     "funfacts": 
+     ["Missouri is home to the Gateway Arch, which is the tallest man-made monument in the U.S..",
+      "Mark Twain, author of 'The Adventures of Huckleberry Finn' was born in Missouri.",
+      "Missouri is one of the leading producers of transportation equipment."]
+    },
+    {
+     "stateCode": "OK",
+     "funfacts": 
+     ["The name 'Oklahoma' is derived from the choctaw words “okla” and “humma”, meaning “red people”.",
+      "Oklahoma was added to the United States as a part of the Louisiana Purchase of 1803.",
+      "Oklahoma City is the second-largest capital city in the United States by area."]
+    },
+    {
+      "stateCode": "NE",
+    "funfacts": 
+    ["The name Nebraska comes from an Oto (also spelled Otoe) Indian word meaning “flat water.",
+      "Tip Top, an Omaha, Nebraska local company, invented and produced Pink hair curlers. For more than 40 years they were manufactured here.",
+      "The founder of Scientology, L. Ron Hubbard, is originally from Nebraska. The writer and director of BattleField Earth was born in Tilden, Nebraska, on March 13, 1911."]
+    },
+    {
+      "stateCode": "CO",
+    "funfacts":
+     ["The Spanish were the first European visitors who arrived in Colorado in the 1500s.",
+      "The Royal Gorge Bridge was the highest suspension bridge in the world for more than 70 years.",
+      "The name “cheeseburger” was trademarked by Louis Ballast of Humpty Dumpty Drive-In in Denver in 1935."]
+    }
+  ]
